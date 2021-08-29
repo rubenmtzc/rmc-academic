@@ -18,7 +18,7 @@ subtitle:
 feature:
 - description: Still learning
   icon: fa-edit
-  icon_pack: fab
+  icon_pack: fas
   name: Microeconomics
 - description: Still learning
   icon: chart-line
