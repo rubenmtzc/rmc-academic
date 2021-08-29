@@ -16,19 +16,23 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: wave-square
+- description: Still learning
+  icon: fa-edit
   icon_pack: fab
-  name: Stata
-- description: 100%
+  name: Microeconomics
+- description: Still learning
   icon: chart-line
   icon_pack: fas
   name: Econometrics
-- description: 20%
+- description: Still learning
+  icon: wave-square
+  icon_pack: fab
+  name: Stata  
+- description: Beginer
   icon: r-project
   icon_pack: fab
   name: R
-- description: 20%
+- description: Beginer
   icon: fa-python
   icon_pack: fab
   name: Python
