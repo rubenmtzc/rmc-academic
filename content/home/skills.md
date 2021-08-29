@@ -20,11 +20,11 @@ feature:
   icon: wave-square
   icon_pack: fab
   name: Stata
-- description: Learning
+- description: 20%
   icon: r-project
   icon_pack: fab
   name: R
-  - description: Learning
+  - description: 20%
   icon: Python
   icon_pack: fab
   name: Python
