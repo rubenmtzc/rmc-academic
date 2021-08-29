@@ -17,21 +17,22 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: 
+  icon: wave-square
   icon_pack: fab
   name: Stata
-- description: 90%
+- description: Learning
   icon: r-project
   icon_pack: fab
   name: R
+  - description: Learning
+  icon: Python
+  icon_pack: fab
+  name: Python
 - description: 100%
   icon: chart-line
   icon_pack: fas
   name: Econometrics
-- description: 10%
-  icon: wave-square
-  icon_pack: fas
-  name: Photography
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
