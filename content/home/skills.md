@@ -24,6 +24,14 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Econometrics
+- description: 20%
+  icon: r-project
+  icon_pack: fab
+  name: R
+- description: 20%
+  icon: fa-python
+  icon_pack: fab
+  name: Python
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
