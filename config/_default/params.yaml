@@ -42,6 +42,10 @@ contact_links:
     icon_pack: fab
     name: DM Me
     link: 'https://twitter.com/runomics'
+  - icon: linkedin
+    icon_pack: fab
+    name: Add me
+    link: 'https://www.linkedin.com/in/rubenmtzc/'
   #- icon: skype
     #icon_pack: fab
     #name: Skype Me
