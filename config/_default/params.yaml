@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: rubenmtzc@gmail.com
+#email: rubenmtzc at gmail
 phone: +44 (0) 116 257 7403
 location: De Montfort University
 address:
@@ -29,9 +29,9 @@ address:
   region: Leicestershire
   postcode: 'LE1 9BH'
   country: United Kingdom
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+#coordinates:
+  #latitude: '37.4275'
+  #longitude: '-122.1697'
 directions: Enter Hugh Aston Building, go up to floor 4, I'm in Office HU 4.39.
 office_hours:
   - 'Tuesday 10:00 to 12:00'
