@@ -25,11 +25,11 @@ feature:
   icon_pack: fas
   name: Econometrics
 - description: Still learning
-  icon: wave-square
+  icon: fab wave-square
   icon_pack: fab
   name: Stata  
 - description: Beginer
-  icon: r-project
+  icon: fab r-project
   icon_pack: fab
   name: R
 - description: Beginer
