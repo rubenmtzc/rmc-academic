@@ -20,14 +20,6 @@ feature:
   icon: wave-square
   icon_pack: fab
   name: Stata
-- description: 20%
-  icon: r-project
-  icon_pack: fab
-  name: R
-  - description: 20%
-  icon: fa-python
-  icon_pack: fab
-  name: Python
 - description: 100%
   icon: chart-line
   icon_pack: fas
