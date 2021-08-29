@@ -25,7 +25,7 @@ experience:
   - title: Senior Lecturer in Economics
     company: De Montfort University
     company_url: 'https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx'
-    company_logo: DMU-Logo.png
+    #company_logo: DMU-Logo.png
     location: Leicester, UK
     date_start: '01-09-2019'
     date_end: ''
@@ -38,11 +38,11 @@ experience:
   - title: Lecturer in Economics
     company: De Montfort University
     company_url: 'https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx'
-    company_logo: DMU-Logo.png
+    #company_logo: DMU-Logo.png
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Researcg and teaching
 
 design:
   columns: '2'
