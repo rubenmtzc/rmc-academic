@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx'
     #company_logo: DMU-Logo.png
     location: Leicester, UK
-    date_start: 'Sep 2019'
+    date_start: '2019-09-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -40,8 +40,8 @@ experience:
     company_url: 'https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx'
     #company_logo: DMU-Logo.png
     location: California
-    date_start: 'Jan 2017'
-    date_end: 'Sep 2019'
+    date_start: '2017-01-20'
+    date_end: '2019-09-01'
     description: Researcg and teaching
 
 design:
