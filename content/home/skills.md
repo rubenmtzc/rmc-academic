@@ -30,7 +30,7 @@ feature:
   name: Econometrics
 - description: 10%
   icon: wave-square
-  icon_pack: fab
+  icon_pack: fas
   name: Photography
 
 # Uncomment to use emoji icons.
