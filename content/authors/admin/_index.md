@@ -10,7 +10,7 @@ role: Senior Lecturer in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: De Montfrot University
+- name: De Montfort University
   url: https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx
 
 # Short bio (displayed in user profile at end of posts)
@@ -35,7 +35,7 @@ education:
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+#   form "mailto:rubenmtzc@gmail.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,12 +43,12 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/runomics
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #icon_pack: fas
+  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: github
+  #icon_pack: fab
+  #link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/rubenmtzc
