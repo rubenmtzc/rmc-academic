@@ -12,7 +12,6 @@ role: Senior Lecturer in Economics
 organizations:
 - name: De Montfrot University
   url: https://www.stanford.edu/
-  <a href="https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx"><img src="assets/images/DMU-Logo.png" alt="DMU logo" width="100/"></a> 
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
