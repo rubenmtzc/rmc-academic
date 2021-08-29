@@ -29,7 +29,7 @@ feature:
   icon_pack: fas
   name: Econometrics
 - description: 10%
-  icon: github
+  icon: envelope
   icon_pack: fas
   name: Photography
 
