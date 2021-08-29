@@ -21,7 +21,7 @@ feature:
   icon_pack: fas
   name: Microeconomics
 - description: Still learning
-  icon: chart-line
+  icon: fas chart-line
   icon_pack: fas
   name: Econometrics
 - description: Still learning
@@ -33,7 +33,7 @@ feature:
   icon_pack: fab
   name: R
 - description: Beginer
-  icon: fa-python
+  icon: fab fa-python
   icon_pack: fab
   name: Python
 
