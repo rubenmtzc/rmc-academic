@@ -17,23 +17,23 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Still learning
-  icon: fas fa-edit
+  icon: fa-edit
   icon_pack: fas
   name: Microeconomics
 - description: Still learning
-  icon: fas chart-line
+  icon: chart-line
   icon_pack: fas
   name: Econometrics
 - description: Still learning
-  icon: fab wave-square
+  icon: wave-square
   icon_pack: fab
   name: Stata  
 - description: Beginer
-  icon: fab r-project
+  icon: r-project
   icon_pack: fab
   name: R
 - description: Beginer
-  icon: fab fa-python
+  icon: fa-python
   icon_pack: fab
   name: Python
 
