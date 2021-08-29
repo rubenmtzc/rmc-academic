@@ -28,14 +28,14 @@ feature:
   icon: wave-square
   icon_pack: fab
   name: Stata  
-- description: Beginer
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: Beginer
-  icon: fa-python
-  icon_pack: fab
-  name: Python
+#- description: Beginer
+  #icon: r-project
+  #icon_pack: fab
+  #name: R
+#- description: Beginer
+  #icon: fa-python
+  #icon_pack: fab
+  #name: Python
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
