@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Still learning
-  icon: fa-edit
+  icon: fas fa-edit
   icon_pack: fas
   name: Microeconomics
 - description: Still learning
