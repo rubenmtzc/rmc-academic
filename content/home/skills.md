@@ -29,7 +29,7 @@ feature:
   icon_pack: fas
   name: Econometrics
 - description: 10%
-  icon: camera-retro
+  icon: github
   icon_pack: fas
   name: Photography
 
