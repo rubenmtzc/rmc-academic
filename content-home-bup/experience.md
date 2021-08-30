@@ -42,7 +42,7 @@ experience:
     location: California
     date_start: '2017-01-20'
     date_end: '2019-09-01'
-    description: Researcg and teaching
+    description: Research and teaching
 
 design:
   columns: '2'
