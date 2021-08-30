@@ -69,7 +69,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- RMC-EA_EA 15 Confianza y capital social evidencia para Mexico
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
