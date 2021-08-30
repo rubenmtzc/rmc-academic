@@ -21,6 +21,8 @@ interests:
 - Digital economy
 - Economic design
 - Financial intermediation
+- Development, inequality, and social welfare
+- Macroeconomics
 
 # Education to show in About widget
 education:
