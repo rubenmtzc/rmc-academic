@@ -18,11 +18,11 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
+- Microeconomics
 - Digital economy
 - Economic design
 - Financial intermediation
 - Development, inequality, and social welfare
-- Macroeconomics
 
 # Education to show in About widget
 education:
