@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Undergraduate
-  icon: fa-marker
+  icon: marker
   icon_pack: fas
   name: Advanced Microeconomics
 - description: Undergraduate
