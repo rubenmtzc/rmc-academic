@@ -23,7 +23,11 @@ feature:
 - description: Undergraduate
   icon: chart-line
   icon_pack: fas
-  name: Economics dissertation
+  name: Economics dissertation (BSc)
+  - description: Undergraduate
+  icon: chart-line
+  icon_pack: fas
+  name: Economics dissertation (BA)
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
