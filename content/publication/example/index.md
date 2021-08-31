@@ -1,6 +1,6 @@
 ---
 title: "Confianza y Capital Social: Evidencia para México. Revista Economía Sociedad y Territorio.
-Vol XV, no. 48, May 2015. With Edgardo Ayala Gaytan and Ernesto Aguayo Tellez."
+Vol XV, no. 48, May 2015. With Edgardo Ayala Gaytan and Ernesto Aguayo Tellez"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
