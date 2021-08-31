@@ -24,7 +24,7 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Economics dissertation (BSc)
-  - description: Undergraduate
+- description: Undergraduate
   icon: chart-line
   icon_pack: fas
   name: Economics dissertation (BA)
