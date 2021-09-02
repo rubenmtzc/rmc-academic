@@ -19,7 +19,7 @@ links:
   url: https://twitter.com/runomics
 - icon: chalkboard
   icon_pack: fas
-  name: Follow
+  name: Blackboard (DMU-Restricted)
   url: https://vle.dmu.ac.uk/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_601048_1&handle=cp_announcements&mode=cpview
 url_code: ""
 url_pdf: "https://drive.google.com/drive/folders/1y6R4rW4HeiP_jvF_-eNRgWYnA7a2nWRx?usp=sharing"
