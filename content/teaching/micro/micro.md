@@ -1,6 +1,6 @@
 ---
 title: Advanced Microeconomics
-summary: An example of using the in-built project page.
+summary: This is an advanced undergraduate module in microeconomic theory. 
 tags:
 - Microeconomics, Theory
 date: "2016-04-27T00:00:00Z"
@@ -31,7 +31,7 @@ links:
   url: https://twitter.com/runomics
 url_code: ""
 url_pdf: 
-url_slides: "https://drive.google.com/drive/folders/1zhT-NhQvjVfw6pB2snH_HtsfLO5W5PHN?usp=sharing"
+url_slides: ""
 url_video: ""
 
 
