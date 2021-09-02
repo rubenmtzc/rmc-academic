@@ -21,10 +21,6 @@ links:
   icon_pack: far
   name: Lecture presentations
   url: https://drive.google.com/drive/folders/1zhT-NhQvjVfw6pB2snH_HtsfLO5W5PHN?usp=sharing
-- icon: chalkboard
-  icon_pack: fas
-  name: Bb (DMU-only)
-  url: https://vle.dmu.ac.uk/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_601048_1&handle=cp_announcements&mode=cpview
 - icon: twitter
   icon_pack: fab
   name: Follow
