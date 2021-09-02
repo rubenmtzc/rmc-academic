@@ -17,7 +17,7 @@ links:
   icon_pack: fas
   name: Lecture notes
   url: https://drive.google.com/drive/folders/1y6R4rW4HeiP_jvF_-eNRgWYnA7a2nWRx?usp=sharing
-- icon: address-card
+- icon: fa-address-card
   icon_pack: far
   name: Lecture presentations
   url: https://drive.google.com/drive/folders/1zhT-NhQvjVfw6pB2snH_HtsfLO5W5PHN?usp=sharing
