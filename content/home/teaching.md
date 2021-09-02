@@ -12,6 +12,10 @@ weight: 20
 title: Teaching
 subtitle:
 
+content:
+  # Page type to display. E.g. project.
+  page_type: project
+  
 # Showcase your teaching.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
