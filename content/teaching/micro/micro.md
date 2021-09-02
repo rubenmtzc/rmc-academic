@@ -2,7 +2,7 @@
 title: Advanced Microeconomics
 summary: An example of using the in-built project page.
 tags:
-- Deep Learning
+- Microeconomics, Theory
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -20,7 +20,7 @@ links:
 url_code: ""
 url_pdf: "https://drive.google.com/drive/folders/1y6R4rW4HeiP_jvF_-eNRgWYnA7a2nWRx?usp=sharing"
 url_slides: "https://drive.google.com/drive/folders/1zhT-NhQvjVfw6pB2snH_HtsfLO5W5PHN?usp=sharing"
-url_video: ""
+url_blackboard: "https://vle.dmu.ac.uk/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_601048_1&handle=cp_announcements&mode=cpview"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
