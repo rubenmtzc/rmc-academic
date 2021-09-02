@@ -6,7 +6,7 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://vle.dmu.ac.uk/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_601048_1&handle=cp_announcements&mode=cpview"
+external_link: ""
 
 image:
   #caption: Photo by rawpixel on Unsplash
