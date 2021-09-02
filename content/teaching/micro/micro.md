@@ -3,7 +3,7 @@ title: Advanced Microeconomics
 summary: This is an advanced undergraduate module in microeconomic theory. 
 tags:
 - Microeconomics, Theory
-date: "2016-04-27T00:00:00Z"
+date: "2021-10-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -40,7 +40,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 In this module we will cover recent developments in microeconomic theory, and some of their applications to contemporary markets and society.  The focus will be on strategic decision making, information asymmetries, market competition, economic networks, economic design, market efficiency and social welfare, and the digital economy. Both theoretical developments and their applications to the study of individual behaviour, the structure of markets. Institutions will be examined using recent advances in game theory, contract theory, mechanism design. The digital economy will be analysed from a microeconomic perspective.
