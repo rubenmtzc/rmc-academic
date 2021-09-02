@@ -47,10 +47,10 @@ This module is designed for students to pursue an independent research piece of 
 
 Learning Outcomes
 
-1.	Critically evaluate the current state of knowledge of a given topic (literature review, dissertation)
-2.	Develop skills in the collection, analysis, and synthesis of data, applying appropriate methodological approaches (dissertation, poster presentation)
-3.	Analyse and integrate academic studies and, where appropriate, work experience into a single piece of work (dissertation, poster presentation)
-4.	Enhance writing, problem solving, and analytical skills, independently creating a coherent rigorous piece of academic work (poster presentation, dissertation)
-5.	Communicate research findings in oral and written form and develop public presentation skills (poster presentation, dissertation)
+1. Critically evaluate the current state of knowledge of a given topic (literature review, dissertation)
+2. Develop skills in the collection, analysis, and synthesis of data, applying appropriate methodological approaches (dissertation, poster presentation)
+3. Analyse and integrate academic studies and, where appropriate, work experience into a single piece of work (dissertation, poster presentation)
+4. Enhance writing, problem solving, and analytical skills, independently creating a coherent rigorous piece of academic work (poster presentation, dissertation)
+5. Communicate research findings in oral and written form and develop public presentation skills (poster presentation, dissertation)
 
 You will complete three different assessments, a literature review, a poster presentation, and a dissertation. Assessment 1, literature review, provides you with a stimulus for early activity and a focus and springboard for completion of your dissertation. Part 2, poster presentation, offers you a space to share findings and demonstrate the importance and originality of your contribution, helps in the development of transferable skills in written and verbal communication, are an opportunity to improve your time management, and work ethics. The dissertation promotes the production of a rigorous piece of academic work, with minimal supervision and largely independently, offering the opportunity to gather learning processes, ideas, concepts and content from a range of academic areas, with a strong emphasis on topics and methodology relevant to economic science.
