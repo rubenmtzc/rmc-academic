@@ -17,7 +17,7 @@ content:
   page_type: teaching
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 3
+  filter_default: 0
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
@@ -28,9 +28,9 @@ content:
   - name: Advanced Microeconomics
     tag: "*"
   - name: BSc/BA Economics Dissertation
-    tag: "*"
+    tag: 
   - name: Digital Markets
-    tag: "*"
+    tag:
   
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
