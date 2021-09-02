@@ -13,17 +13,25 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
+- icon: book-reader
+  icon_pack: fas
   name: Follow
-  url: https://twitter.com/runomics
+  url: https://drive.google.com/drive/folders/1y6R4rW4HeiP_jvF_-eNRgWYnA7a2nWRx?usp=sharing
+- icon: address-card
+  icon_pack: far
+  name: Follow
+  url: https://drive.google.com/drive/folders/1zhT-NhQvjVfw6pB2snH_HtsfLO5W5PHN?usp=sharing
 - icon: chalkboard
   icon_pack: fas
   name: Blackboard (DMU-Restricted)
   url: https://vle.dmu.ac.uk/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_601048_1&handle=cp_announcements&mode=cpview
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/runomics
 url_code: ""
-url_pdf: "https://drive.google.com/drive/folders/1y6R4rW4HeiP_jvF_-eNRgWYnA7a2nWRx?usp=sharing"
-url_slides: "https://drive.google.com/drive/folders/1zhT-NhQvjVfw6pB2snH_HtsfLO5W5PHN?usp=sharing"
+url_pdf: 
+url_slides: ""
 url_video: ""
 
 
