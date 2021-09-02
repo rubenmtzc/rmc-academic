@@ -17,14 +17,15 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/runomics
-url_code: ""
-url_pdf: "https://drive.google.com/drive/folders/1y6R4rW4HeiP_jvF_-eNRgWYnA7a2nWRx?usp=sharing"
-url_slides: "https://drive.google.com/drive/folders/1zhT-NhQvjVfw6pB2snH_HtsfLO5W5PHN?usp=sharing"
-url_video: ""
 - icon: chalkboard
   icon_pack: fas
   name: Follow
   url: https://vle.dmu.ac.uk/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_601048_1&handle=cp_announcements&mode=cpview
+url_code: ""
+url_pdf: "https://drive.google.com/drive/folders/1y6R4rW4HeiP_jvF_-eNRgWYnA7a2nWRx?usp=sharing"
+url_slides: "https://drive.google.com/drive/folders/1zhT-NhQvjVfw6pB2snH_HtsfLO5W5PHN?usp=sharing"
+url_video: ""
+
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
