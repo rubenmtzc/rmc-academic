@@ -28,9 +28,9 @@ content:
   - name: Advanced Microeconomics
     tag: '*'
   - name: BSc/BA Economics Dissertation
-    tag: Deep Learning
+    tag: '*'
   - name: Digital Markets
-    tag: Demo
+    tag: '*'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
