@@ -29,7 +29,7 @@ content:
     tag: "*"
   - name: BSc/BA Economics Dissertation
     tag: 
-  - name: Digital Markets
+  - name: Digital Market Design
     tag:
   
 design:
