@@ -27,9 +27,9 @@ content:
   filter_button:
   - name: Advanced Microeconomics
     tag: '*'
-  - name: BSc Economics Dissertation
+  - name: BSc/BA Economics Dissertation
     tag: Deep Learning
-  - name: BA Economics Dissertation
+  - name: Economic Design in the Digital Economy
     tag: Demo
 
 design:
