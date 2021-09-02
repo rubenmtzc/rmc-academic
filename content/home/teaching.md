@@ -29,7 +29,7 @@ content:
     tag: '*'
   - name: BSc/BA Economics Dissertation
     tag: Deep Learning
-  - name: Economic Design in the Digital Economy
+  - name: Digital Markets
     tag: Demo
 
 design:
