@@ -40,7 +40,7 @@ summary: We empirically explore the determinants of trust in Mexico; in particul
 tags: [Social capital, trust, Mexico]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
