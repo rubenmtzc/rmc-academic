@@ -3,7 +3,7 @@ title: Advanced Microeconomics
 summary: This is an advanced undergraduate module in microeconomic theory. 
 tags:
 - Microeconomics, Theory
-date: "2021-10-01"
+date: "2021-01-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
