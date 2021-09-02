@@ -3,7 +3,7 @@ title: BSc/BA Economics Dissertation
 summary: This is a dissertation module, where students work on a research piece of work where they analyse an economic or social issue with an economics' perpective.
 tags:
 - Dissertation, Reserarch
-date: "2021-10-01"
+date: "2021-01-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
