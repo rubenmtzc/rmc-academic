@@ -1,43 +1,40 @@
 ---
-title: "Confianza y Capital Social: Evidencia para México. Revista Economía Sociedad y Territorio.
-Vol XV, no. 48, May 2015. With Edgardo Ayala Gaytan and Ernesto Aguayo Tellez"
+title: "Type Search and Choice: True and Adopted Type Mismatch and the Generation of Frames"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Edgardo Ayala Gaytan
-- Ernesto Aguayo Tellez
 
 # Author notes (optional)
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2019-07-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2015-05-01"
+publishDate: "2019-07-02"
 #publishDate: "2015-05-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Revista Economía Sociedad y Territorio*
-publication_short: In *ESyT*
+publication: In **
+publication_short: In **
 
-abstract: From an economic perspective, trust among members of a society is associated with the efficient functioning of markets, contract reinforcement and in general with the capacity to generate development and welfare. In this article we empirically explore the determinants of trust in Mexico; in particular we isolate the relation among two measurements of social capital, one for the individual and another for their environment. Our results show that trust increases with these measurements of social capital, and in the absence of segregation, it is higher in smaller communities, at older ages and for inhabitants of the center-occident, among others.
+abstract: A model of decision making is built where the type of the decision maker matters for how this process takes place. Individual’s type is assumed to be determined by Nature and ignored by individuals. Self-Type ignorance starts a process in which individuals search for a type to adopt. In this search process, individuals take into account the information in their current state, together with a net valuation function and a threshold, to determine when the search process must stop. The type-search process produces an adopted type that may or may not coincide with individual’s true type. If the adopted type is different to the true type, this adopted type is shown to function as a frame in an extended choice problem. In our choice framework, adopted types as frames can lead to sub-optimal choices with individual welfare implications. Possible applications of the model are suggested.
 
 # Summary. An optional shortened abstract.
-summary: We empirically explore the determinants of trust in Mexico; in particular we isolate the relation among two measurements of social capital, one for the individual and another for their environment.
+summary: A model of decision making is built where the type of the decision maker matters for how this process takes place. Individual’s type is assumed to be determined by Nature and ignored by individuals. In our choice framework, adopted types as frames can lead to sub-optimal choices with individual welfare implications. Possible applications of the model are suggested.
 
-tags: [Social capital, trust, Mexico]
+tags: [Choice, satisficing, consideration sets]
 
 # Display this page in the Featured widget?
 featured: true
@@ -47,7 +44,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1405-84212015000100003&lng=es&nrm=iso'
+url_pdf: 'https://drive.google.com/file/d/1Pxgmvq8JJ2KZlixey2QdE0bZkG0XXQfX/view?usp=sharing'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -69,7 +66,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- RMC-EA_EA 15 Confianza y capital social evidencia para Mexico
+- TypeMismatch
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
