@@ -1,7 +1,7 @@
 ---
-# An instance of the Featurette widget.
+# An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featurette
+widget: portfolio
 
 # This file represents a page section.
 headless: true
@@ -10,41 +10,39 @@ headless: true
 weight: 20
 
 title: Teaching
-subtitle:
+subtitle: ''
 
 content:
   # Page type to display. E.g. project.
   page_type: project
-  
-# Showcase your teaching.
-# - Add/remove as many `feature` blocks below as you like.
-# - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature:
-- description: Undergraduate
-  icon: marker
-  icon_pack: fas
-  name: Advanced Microeconomics
-- description: Undergraduate
-  icon: chart-line
-  icon_pack: fas
-  name: Economics dissertation (BSc)
-- description: Undergraduate
-  icon: chart-line
-  icon_pack: fas
-  name: Economics dissertation (BA)
 
-# Uncomment to use emoji icons.
-#- icon: ":smile:"
-#  icon_pack: "emoji"
-#  name: "Emojiness"
-#  description: "100%"  
+  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+  filter_default: 0
 
-# Uncomment to use custom SVG icons.
-# Place your custom SVG icon in `assets/media/icons/`.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-# For example, reference `assets/media/icons/xyz.svg` as `icon: 'xyz'`
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
+  # Filter toolbar (optional).
+  # Add or remove as many filters (`filter_button` instances) as you like.
+  # To show all items, set `tag` to "*".
+  # To filter by a specific tag, set `tag` to an existing tag name.
+  # To remove the toolbar, delete the entire `filter_button` block.
+  filter_button:
+  - name: All
+    tag: '*'
+  - name: Advanced Microeconomics
+    tag: Deep Learning
+  - name: Other
+    tag: Demo
+
+design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '3'
+
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   5 = Showcase
+  view: 2
+
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows: false
 ---
