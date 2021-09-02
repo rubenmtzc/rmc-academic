@@ -29,9 +29,7 @@ content:
     tag: "*"
   - name: BSc/BA Economics Dissertation
     tag: "*"
-  - name: Digital Markets
-    tag: "*"
-
+  
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
@@ -44,5 +42,5 @@ design:
   view: 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---
