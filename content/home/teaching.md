@@ -25,11 +25,11 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
+  - name: Advanced Microeconomics
     tag: '*'
-  - name: Deep Learning
+  - name: BSc Economics Dissertation
     tag: Deep Learning
-  - name: Other
+  - name: BA Economics Dissertation
     tag: Demo
 
 design:
