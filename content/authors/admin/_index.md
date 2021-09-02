@@ -14,7 +14,7 @@ organizations:
   url: https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include the digital economy, economic design, financial intermediation, and a little bit of macroeconomics.
 
 # Interests to show in About widget
 interests:
