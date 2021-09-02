@@ -26,22 +26,22 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: Advanced Microeconomics
-    tag: 'Microeconomics, Theory, Undergraduate'
+    #tag: 'Microeconomics, Theory, Undergraduate'
   - name: BSc Economics Dissertation
-    tag: 'Dissertation, Undergraduate'
+    #tag: 'Dissertation, Undergraduate'
   - name: BA Economics Dissertation
-    tag: 'Dissertation, Undergraduate'
+    #tag: 'Dissertation, Undergraduate'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '3'
+  columns: '2'
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 5
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
