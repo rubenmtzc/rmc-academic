@@ -1,8 +1,8 @@
 ---
-title: Advanced Microeconomics
-summary: This is an advanced undergraduate module in microeconomic theory. 
+title: Digital Market Design
+summary: This is a short-course on the digital economy and market design.
 tags:
-- Microeconomics, Theory
+- Digital Economy, Market Design, Platforms, Two-Sided Markets, Auction, Matching
 date: "2021-01-01"
 
 # Optional external URL for project (replaces project detail page).
@@ -43,13 +43,7 @@ url_video: ""
 # slides: example
 ---
 
-In this module we will cover recent developments in microeconomic theory, and some of their applications to contemporary markets and society.  The focus will be on strategic decision making, information asymmetries, market competition, economic networks, economic design, market efficiency and social welfare, and the digital economy. Both theoretical developments and their applications to the study of individual behaviour, the structure of markets. Institutions will be examined using recent advances in game theory, contract theory, mechanism design. The digital economy will be analysed from a microeconomic perspective.
-
-During the lectures we will apply economic theory to study consumer and firm strategic behaviour. We will study incentive schemes to improve the behaviour of economic agents, and the design of institutions, mechanisms, and strategies that contribute to reach outcomes with properties such as efficiency and fairness. 
-
-We will achieve this by focusing in the first part of the module on the economics of strategic behaviour, also covering some applications, followed by a second section where we will study economic design and the digital economy. The two latter areas have recently experienced substantial theoretical advances and widespread applications, and have proved to be useful for the design and implementation of initiatives directed to produce efficient outcomes and improve the performance of individuals, institutions, and markets. 
-
-The material we will study will explore applications of the theory to analyse contemporary problems. We will focus on the design of markets, making use of game theory and economic theory to engineer institutions where agents converge to get involved in exchanges. As the information age is changing the way individuals, firms, governments, markets and society function, we will also explore the economic implications of the Internet, digital technologies, artificial intelligence, and technological advances in general. Technological advancements are making significant amounts of information accessible, lowering transaction costs, creating proxies of trust, and forming networks, among other features. We will put particular emphasis on the digital economy, digital markets and applications to financial intermediation. 
+This is an applied short-course about the design of digital markets. We cover topics in strategic decision making, strategic competition, pricing, economic networks, platforms, and market design, all this focusing on applications to the digital economy. During the lectures we will learn economic theory to study the design of digital bussinesses and markets. We will cover consumer analysis, market research, and strategic competition. We will also explore the economic implications of the Internet, digital technologies, artificial intelligence, and technological advances in general. During the course we will develop a project studying a new product, a new firm, or whole market applying what we will learn in the course.
 
 Topics
 
