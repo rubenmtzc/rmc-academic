@@ -26,8 +26,8 @@ publishDate: "2019-07-02"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In **
-publication_short: In **
+# publication: In **
+# publication_short: In **
 
 abstract: A model of decision making is built where the type of the decision maker matters for how this process takes place. Individual’s type is assumed to be determined by Nature and ignored by individuals. Self-Type ignorance starts a process in which individuals search for a type to adopt. In this search process, individuals take into account the information in their current state, together with a net valuation function and a threshold, to determine when the search process must stop. The type-search process produces an adopted type that may or may not coincide with individual’s true type. If the adopted type is different to the true type, this adopted type is shown to function as a frame in an extended choice problem. In our choice framework, adopted types as frames can lead to sub-optimal choices with individual welfare implications. Possible applications of the model are suggested.
 
