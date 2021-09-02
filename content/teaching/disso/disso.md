@@ -40,7 +40,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 This module is designed for students to pursue an independent research piece of work. This can be a very rewarding experience where you can pursue a deep exploration of a topic you are interested in, and where you can start specializing in an area or topic that you would like to work on after you complete your undergraduate degree. To complete your work, you will be supported by a supervisor that will be assigned to you according to your dissertation’s topic and the supervisors’ areas of expertise. The dissertation is highly independent and it demands a strong commitment, hard work, and a strict work ethic, you should be prepared to excel and all these. To evaluate your progress and work, you will complete three different assessments, a literature review, a poster presentation, and a dissertation. All three components will be marked and will count for your final grade. Additionally, you will need to complete other activities that are not part of your evaluation, but that are nonetheless key components of your progress. I will tell you more on this below and as the module progresses.
