@@ -16,11 +16,11 @@ links:
 - icon: book-reader
   icon_pack: fas
   name: Lecture notes
-  url: https://drive.google.com/drive/folders/1y6R4rW4HeiP_jvF_-eNRgWYnA7a2nWRx?usp=sharing
+  url: https://docs.google.com/forms/d/e/1FAIpQLSfPw4HlsMNwQNLOKciqY5WAfnO3BfHgEG8JFGOcT-7JaiqevQ/viewform?usp=sf_link
 - icon: address-card
   icon_pack: far
   name: Lecture presentations
-  url: https://drive.google.com/drive/folders/1zhT-NhQvjVfw6pB2snH_HtsfLO5W5PHN?usp=sharing
+  url: https://docs.google.com/forms/d/e/1FAIpQLSfPw4HlsMNwQNLOKciqY5WAfnO3BfHgEG8JFGOcT-7JaiqevQ/viewform?usp=sf_link
 - icon: chalkboard
   icon_pack: fas
   name: Bb (DMU-only)
