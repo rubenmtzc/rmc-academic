@@ -72,4 +72,4 @@ highlight_name: false
 
 Hi I'm a senior lecutrer in economics at De Montfort University. My research interests include the digital economy, economic design, financial intermediation, and a little bit of macroeconomics.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1mGke3PQU-38sbdLu4u7O4KATlOlZX8sT/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1Ts0DAh_BmCoUqG8S9dip5wc2vhM24SxA/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
