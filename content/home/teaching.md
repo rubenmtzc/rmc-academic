@@ -26,7 +26,7 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: Teaching Philosophy
-  - tag:"*"
+  - tag: "*"
   - name: Advanced Microeconomics
     tag: "*"
   - name: BSc/BA Economics Dissertation
