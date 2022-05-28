@@ -21,8 +21,9 @@ slides:
 
 ## Development problems
 
-We focus on the following problems
+Development problems
 
+- Identity (multidimensional)
 - Access to financial services
 - Property rights
 - Community ownership
@@ -31,12 +32,12 @@ We focus on the following problems
 
 ## Blockchain
 
-We use blockchain technology for
+Blockchain technology for
 
-- Development of smart contracts
-- Property tokens
-- Information safety
-- Resource management and transfer
+- Smart contracts
+- Tokenisation 
+- Data security and authentification
+- Digital currency
 
 ---
 
