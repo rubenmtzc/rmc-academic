@@ -55,10 +55,10 @@ An interdisciplinary group
 
 Stages of project
 
-{{% fragment %}} | Learning & Teaching | {{% /fragment %}}
-{{% fragment %}} | Research & Development | {{% /fragment %}}
-{{% fragment %}} | Experimentation & Trial | {{% /fragment %}}
-{{% fragment %}} **| Applications |** {{% /fragment %}}
+{{% fragment %}}  | Learning & Teaching |  {{% /fragment %}}
+{{% fragment %}}  | Research & Development |  {{% /fragment %}}
+{{% fragment %}}  | Experimentation & Trial |  {{% /fragment %}}
+{{% fragment %}}  **| Applications |**  {{% /fragment %}}
 
 ---
 
