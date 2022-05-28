@@ -1,8 +1,8 @@
 ---
 title: Seminars and talks
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Seminar
+event_url: https://rubenmtzc.netlify.app/project/example/
 
 location: Online
 address:
