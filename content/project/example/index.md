@@ -1,8 +1,8 @@
 ---
-title: Blockchain for Development
+title: Example Project
 summary: An example of using the in-built project page.
 tags:
-- Blockchain, Social and Economic Development
+- Blockchain
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -30,6 +30,4 @@ url_video: ""
 slides: example
 ---
 
-There are many social and economic development problems to solve. Among them, lack of access to fiancial services, weak or non-existent property rights, lack of social financial identity, and community infraestructure are of particular interest. Blockchain technology offers an opportunity to attack these problems, in cheapest, more secure way.
-
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
