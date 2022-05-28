@@ -1,6 +1,6 @@
 ---
 title: Blockchain for Development
-summary: Short description of the project.
+summary: ""
 tags:
 - Blockchain
 - Economic Development
