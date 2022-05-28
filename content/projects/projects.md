@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Projects
-subtitle: ''
+subtitle: '(Incomplete section)'
 
 content:
   # Page type to display. E.g. project, teaching.
