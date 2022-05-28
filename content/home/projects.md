@@ -24,8 +24,10 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
+  # filter_button:
   - name: Blockchain for Development
+    tag: "*"
+  - name: Remote Medical Consultation
     tag: "*"
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
