@@ -1,6 +1,6 @@
 ---
 title: Slides
-summary: An introduction to using Wowchemy's Slides feature.
+summary: Introduction to the project.
 authors: [Ruben Martínez Cárdenas]
 tags: [Blockchain, Social development, Economic development]
 categories: []
@@ -13,32 +13,30 @@ slides:
   highlight_style: dracula
 ---
 
-# Blockchain applications to development
+## Blockchain for Development
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
-
----
-
-## Features
-
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+ | B4Dev |
 
 ---
 
-## Controls
+## Development problems
 
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
+We focus on the following problems
+
+- Access to financial services
+- Property rights
+- Community ownership
+
+---
+
+## Blockchain
+
+We use blockchain technology for
+
+- Development of smart contracts
+- Property tokens
+- Information safety
+- Resource management and transfer
 
 ---
 
