@@ -26,9 +26,7 @@ content:
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
   - name: Blockchain for Development
-    tag: '(Starting)' 
-  - name: Remote Medical Consultation
-    tag: 'Completed'
+    tag: '(Starting)'
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
@@ -38,7 +36,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 5
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: true
