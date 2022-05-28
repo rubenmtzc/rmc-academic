@@ -1,8 +1,10 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Blockchain for Development
+summary: Short description of the project.
 tags:
 - Blockchain
+- Economic Development
+- Social Development
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
