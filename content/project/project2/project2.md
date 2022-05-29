@@ -32,6 +32,8 @@ url_video: ""
 slides: ""
 ---
 
+**Ruben Martinez Cardenas, Edward Cartwright, Swati Virmani, Bertha Ochieng**
+
 We measure the impact of MedicSpot technology in GP consultations. In order to do so we considered: (i) patients’ self-reported experience and satisfaction with the MedicSpot consulting service, (ii) a comparison of patient outcomes between the treatment group (using MedicSpot) and a control group (with face-to-face consultations), (iii) the resource implications of using MedicSpot compared to face-to-face consultations. Additionally, we evaluate the results of asynchronous ear consultations using the same technology.
 
 Our key findings can be summarized as follows
