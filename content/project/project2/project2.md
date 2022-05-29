@@ -1,10 +1,10 @@
 ---
 title: Remote Medical Consultations
 summary: We measure the impact of MedicSpot technology in GP consultations.
-- Ruben Martinez Cardenas
-- Edward Cartwright
-- Swati Virmani
-- Bertha Ochieng
+|Ruben Martinez Cardenas| 
+|Edward Cartwright|
+|Swati Virmani|
+|Bertha Ochieng|
 tags:
 - HealthTech
 - Telemedicine
