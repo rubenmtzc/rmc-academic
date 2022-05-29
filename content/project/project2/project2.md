@@ -1,6 +1,6 @@
 ---
 title: Remote Medical Consultations
-summary: **Ruben Martinez Cardenas, Edward Cartwright, Swati Virmani, Bertha Ochieng**
+summary: Ruben Martinez Cardenas, Edward Cartwright, Swati Virmani, Bertha Ochieng
 tags:
 - HealthTech
 - Telemedicine
