@@ -55,7 +55,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/rubenmtzc
-- icon: :rainbow:
+- icon: rainbow
   icon_pack: emoji
 
 # Link to a PDF of your resume/CV.
