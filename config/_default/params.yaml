@@ -38,9 +38,13 @@ office_hours:
   - 'Friday 09:00 to 10:00'
 appointment_url: 'https://calendly.com/rmc-dmu/ruben-martinez-cardenas-office-hours?month=2021-09'
 contact_links:
+  - icon: mastodon
+    icon_pack: fab
+    name: Connect and DM Me
+    link: 'https://econtwitter.net/web/@Rubenmtzc#'
   - icon: twitter
     icon_pack: fab
-    name: DM Me
+    name: Not active for obvious reasons
     link: 'https://twitter.com/runomics'
   - icon: linkedin
     icon_pack: fab
