@@ -31,7 +31,14 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-|Ruben Martinez Cardenas| |Edward Cartwright| |Swati Virmani| |Bertha Ochieng|
+Start date: 5 August 2021
+End date: 17 December 2021
+Total funding: £10,000
+
+- Ruben Martinez Cardenas, Senior Lecturer in Economics at De Montfort University
+- Edward Cartwright, Professor of Economics at De Montfort University
+- Swati Virmani, Senior Lecturer in Economics at De Montfort University
+- Bertha Ochieng, Professor of Integrated Health and Social Care at De Montfort University
 
 We measure the impact of MedicSpot technology in GP consultations. In order to do so we considered: (i) patients’ self-reported experience and satisfaction with the MedicSpot consulting service, (ii) a comparison of patient outcomes between the treatment group (using MedicSpot) and a control group (with face-to-face consultations), (iii) the resource implications of using MedicSpot compared to face-to-face consultations. Additionally, we evaluate the results of asynchronous ear consultations using the same technology.
 
