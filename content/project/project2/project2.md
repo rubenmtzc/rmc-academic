@@ -1,6 +1,6 @@
 ---
-title: Remote Medical Consultations
-summary: We measure the impact of MedicSpot technology in GP consultations.
+title: Measuring The Impact Of Medicspot GP Consultations
+summary: ""
 tags:
 - HealthTech
 - Telemedicine
