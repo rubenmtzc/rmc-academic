@@ -27,7 +27,7 @@ content:
   filter_button:
   - name: A smart city that works for all.
     tag: "*"
-  - name: Remote Medical Consultation
+  - name: Measuring The Impact Of Medicspot GP Consultations
     tag: "*"
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
