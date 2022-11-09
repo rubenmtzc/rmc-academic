@@ -25,7 +25,7 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: Blockchain for Development
+  - name: A smart city that works for all. A case study of Leicester
     tag: "*"
   - name: Remote Medical Consultation
     tag: "*"
