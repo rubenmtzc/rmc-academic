@@ -30,7 +30,7 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 # slides: example
-slides:""
+ slides = ""
 ---
 
 There are many social and economic development problems to solve. Among them, lack of access to financial services, weak or non-existent property rights, lack of social and financial identity, and community infrastructure are of particular interest. Digital technologies offer an opportunity to attack these problems, in the cheapest, more secure way. 
