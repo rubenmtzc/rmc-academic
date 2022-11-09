@@ -25,7 +25,7 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: Digital for Development
+  - name: A smart city that works for all. A case study of Leicester
     tag: 'Starting'  
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
