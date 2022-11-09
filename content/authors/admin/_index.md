@@ -44,7 +44,7 @@ social:
   icon_pack: fas
   link: '/#contact'
 - icon: mastodon
-  icon_pack: fa
+  icon_pack: fab
   link: https://econtwitter.net/web/@Rubenmtzc#
 - icon: twitter
   icon_pack: fab
