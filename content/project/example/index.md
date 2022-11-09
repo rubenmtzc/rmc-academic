@@ -39,6 +39,12 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+Start date: 20 June 2022
+
+End date: 30 November 2022
+
+Total award: £10,000
+
 - Edward Cartwright, Professor of Economics at De Montfort University
 - Rob Watson, Director at Decentered Media
 - Swati Virmani, Senior Lecturer in Economics at De Montfort University
