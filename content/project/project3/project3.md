@@ -16,7 +16,7 @@ image:
 
 links:
 - url: https://leicesterstories.uk/leicester-smart-city/
-- url: https://www.turing.ac.uk/learn-explore-and-participate/public-engagement-grant-award-2022#:~:text=A%20smart%20city%20that%20works%20for%20all%3A%20A%20case%20study%20of%20Leicester
+- url: https://www.turing.ac.uk/learn-explore-and-participate/public-engagement-grant-award-2022
 - icon: mastodon
   icon_pack: fab
   name: Follow
