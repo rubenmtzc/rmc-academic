@@ -1,10 +1,10 @@
 ---
-title: A smart city that works for all: A case study of Leicester
+title: Digital Technology for Development
 summary: ""
 tags:
-- Smart City
-- Digital economy
-- Leicester
+- Digital Technology
+- Economic Development
+- Social Development
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -15,15 +15,10 @@ image:
   focal_point: Smart
 
 links:
-- icon:""
-  icon_pack:""
-  name: Leicester Stories Site
-  url: https://leicesterstories.uk/leicester-smart-city/
-- url: https://www.turing.ac.uk/learn-explore-and-participate/public-engagement-grant-award-2022
 - icon: mastodon
   icon_pack: fab
   name: Follow
-  url: https://econtwitter.net/web/@Rubenmtzc
+  url: https://econtwitter.net/web/@Rubenmtzc#
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -34,13 +29,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-# slides: ""
+# slides: example
 ---
-Edward Cartwright, Professor of Economics at De Montfort University
-Rob Watson, Director at Decentered Media
-Swati Virmani, Senior Lecturer in Economics at De Montfort University
-Ruben Martinez-Cardenas, Senior Lecturer in Economics at De Montfort University
 
-This project aims to engage with people from across Leicester to inform policy, shape the delivery of the smart city, and explore how people can benefit from the opportunities that a smart city will provide. We use the Community Reporter model to engage with people across Leicester on their idea of a smart city.
-The aim of this approach is to facilitate opportunities to build a positive narrative around having voice that can influence social and economic policy.
-Leicester Stories is a hub that supports community media storytelling and discussion activities, both online and in person. 
+There are many social and economic development problems to solve. Among them, lack of access to financial services, weak or non-existent property rights, lack of social and financial identity, and community infrastructure are of particular interest. Digital technologies offer an opportunity to attack these problems, in the cheapest, more secure way. 
