@@ -15,10 +15,6 @@ image:
   focal_point: Smart
 
 links:
-- name: Leicester Stories Site
-  url: https://leicesterstories.uk/leicester-smart-city/
-- Alan Turing Public Engagement Grant award 2022 
-  url: https://www.turing.ac.uk/learn-explore-and-participate/public-engagement-grant-award-2022
 - icon: mastodon
   icon_pack: fab
   name: Follow
