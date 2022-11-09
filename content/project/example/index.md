@@ -15,10 +15,18 @@ image:
   focal_point: Smart
 
 links:
+- icon: ""
+  icon_pack: ""
+  name: Leicester Stories Site
+  url: https://leicesterstories.uk/leicester-smart-city/
+- icon: ""
+  icon_pack: "" 
+  name: Alan Turing Public Engagement Grant award 2022
+  url: https://www.turing.ac.uk/learn-explore-and-participate/public-engagement-grant-award-2022
 - icon: mastodon
   icon_pack: fab
   name: Follow
-  url: https://econtwitter.net/web/@Rubenmtzc#
+  url: https://econtwitter.net/web/@Rubenmtzc
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -29,8 +37,12 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-# slides: example
+slides: ""
 ---
+Edward Cartwright, Professor of Economics at De Montfort University
+Rob Watson, Director at Decentered Media
+Swati Virmani, Senior Lecturer in Economics at De Montfort University
+Ruben Martinez-Cardenas, Senior Lecturer in Economics at De Montfort University
 
 This project aims to engage with people from across Leicester to inform policy, shape the delivery of the smart city, and explore how people can benefit from the opportunities that a smart city will provide. We use the Community Reporter model to engage with people across Leicester on their idea of a smart city.
 The aim of this approach is to facilitate opportunities to build a positive narrative around having voice that can influence social and economic policy.
