@@ -43,7 +43,10 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
+- icon: mastodon
+  icon_pack: fa
+  link: https://econtwitter.net/web/@Rubenmtzc#
+  - icon: twitter
   icon_pack: fab
   link: https://twitter.com/runomics
 #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
