@@ -1,10 +1,10 @@
 ---
-title: Digital Technology for Development
+title: A smart city that works for all: A case study of Leicester
 summary: ""
 tags:
-- Digital Technology
-- Economic Development
-- Social Development
+- Smart City
+- Digital economy
+- Leicester
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -32,4 +32,6 @@ url_video: ""
 # slides: example
 ---
 
-There are many social and economic development problems to solve. Among them, lack of access to financial services, weak or non-existent property rights, lack of social and financial identity, and community infrastructure are of particular interest. Digital technologies offer an opportunity to attack these problems, in the cheapest, more secure way. 
+This project aims to engage with people from across Leicester to inform policy, shape the delivery of the smart city, and explore how people can benefit from the opportunities that a smart city will provide. We use the Community Reporter model to engage with people across Leicester on their idea of a smart city.
+The aim of this approach is to facilitate opportunities to build a positive narrative around having voice that can influence social and economic policy.
+Leicester Stories is a hub that supports community media storytelling and discussion activities, both online and in person. 
