@@ -39,11 +39,13 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Edward Cartwright, Professor of Economics at De Montfort University
-Rob Watson, Director at Decentered Media
-Swati Virmani, Senior Lecturer in Economics at De Montfort University
-Ruben Martinez-Cardenas, Senior Lecturer in Economics at De Montfort University
+- Edward Cartwright, Professor of Economics at De Montfort University
+- Rob Watson, Director at Decentered Media
+- Swati Virmani, Senior Lecturer in Economics at De Montfort University
+- Ruben Martinez-Cardenas, Senior Lecturer in Economics at De Montfort University
 
 This project aims to engage with people from across Leicester to inform policy, shape the delivery of the smart city, and explore how people can benefit from the opportunities that a smart city will provide. We use the Community Reporter model to engage with people across Leicester on their idea of a smart city.
 The aim of this approach is to facilitate opportunities to build a positive narrative around having voice that can influence social and economic policy.
 Leicester Stories is a hub that supports community media storytelling and discussion activities, both online and in person. 
+
+
