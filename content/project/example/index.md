@@ -15,6 +15,10 @@ image:
   focal_point: Smart
 
 links:
+- icon: ""
+  icon_pack: ""
+  name: Leicester Stories Site
+  url: https://leicesterstories.uk/leicester-smart-city/
 - icon: mastodon
   icon_pack: fab
   name: Follow
