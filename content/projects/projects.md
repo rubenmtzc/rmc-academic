@@ -25,7 +25,7 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: Blockchain for Development
+  - name: Digital for Development
     tag: 'Starting'  
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
