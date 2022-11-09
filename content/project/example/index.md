@@ -1,8 +1,8 @@
 ---
-title: Blockchain for Development
+title: Digital Technology for Development
 summary: ""
 tags:
-- Blockchain
+- Digital Technology
 - Economic Development
 - Social Development
 date: "2016-04-27T00:00:00Z"
@@ -15,10 +15,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: mastodon
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/runomics
+  url: https://econtwitter.net/web/@Rubenmtzc#
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -29,7 +29,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
-There are many social and economic development problems to solve. Among them, lack of access to financial services, weak or non-existent property rights, lack of social and financial identity, and community infrastructure are of particular interest. Blockchain technology offers an opportunity to attack these problems, in the cheapest, more secure way. 
+There are many social and economic development problems to solve. Among them, lack of access to financial services, weak or non-existent property rights, lack of social and financial identity, and community infrastructure are of particular interest. Digital technologies offer an opportunity to attack these problems, in the cheapest, more secure way. 
