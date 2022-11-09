@@ -1,5 +1,5 @@
 ---
-title: A smart city that works for all: A case study of Leicester
+title: A smart city that works for all. A case study of Leicester
 summary: ""
 tags:
 - Smart City
