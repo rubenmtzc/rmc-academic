@@ -1,6 +1,7 @@
 ---
 # Display name
-title: Rubén Martínez Cárdenas
+title: Rubén 
+title: Martínez Cárdenas
 
 # Is this the primary user of the site?
 superuser: true
