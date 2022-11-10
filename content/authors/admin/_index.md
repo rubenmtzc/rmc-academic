@@ -10,7 +10,7 @@ role: Senior Lecturer in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: De Montfort University
+- name: Leicester Castle Business School, De Montfort University
   url: https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx
 
 # Short bio (displayed in user profile at end of posts)
