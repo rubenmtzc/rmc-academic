@@ -47,7 +47,7 @@ social:
   link: '/#contact'
 - icon: mastodon
   icon_pack: fab
-  link: https://econtwitter.net/web/@Rubenmtzc#
+  link: <a rel="me" href="https://econtwitter.net/@Rubenmtzc">Mastodon</a>
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/runomics
