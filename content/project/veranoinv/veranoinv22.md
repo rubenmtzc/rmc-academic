@@ -42,3 +42,6 @@ Estudiantes:
 - Xóchitl Rosales Terán
 
 Durante dos meses, Nancy y Xóchitl participaron en Verano Internacional de la Ciencia 2022 COPOCYT-MD4SG. El programa está dirigido a exbecarias del Programa de Incorporación de Mujeres Indígenas a Posgrados para el Fortalecimiento Regional en San Luis Potosí. Sus proyectos involucraron investigaciones con impacto social en pueblos originarios en el estado de San Luis Potosí. Durante el programa Nancy y Xóchitl realizarón una estancia de investigación virtual conmigo, y presentarón sus resultados preliminares en la exposición de pósters científicos en la Conferencia sobre Equidad y Acceso en Algoritmos, Mecanismos y Optimización (EAAMO ‘22) en Washington DC, Estados Unidos.
+
+name: En los medios
+url: https://lajornadasanluis.com.mx/ultimas-publicaciones/potosinas-destacan-con-proyectos-sociales-en-evento-internacional/
