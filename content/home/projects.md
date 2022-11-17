@@ -25,11 +25,11 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: A Smart City.
+  - name: A Smart City, Leicester.
     tag: "*"
   - name: Remote GP Consultations
     tag: "*"
-  - name: MD4SG-Copocyt
+  - name: MD4SG-Copocyt Summer Research
     tag: "*" 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
