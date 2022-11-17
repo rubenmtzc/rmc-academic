@@ -1,10 +1,11 @@
 ---
-title: Measuring The Impact Of Medicspot GP Consultations
+title: Verano de Investigación MD4SG-Copocyt
 summary: ""
 tags:
-- HealthTech
-- Telemedicine
-- Health
+- MD4SG
+- Copocyt
+- Verano de Investigación
+- Mujeres indígenas
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -15,13 +16,13 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: mastodon
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/runomics
+  url: https://econtwitter.net/@Rubenmtzc#
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "veranoinv22"
 url_video: ""
 
 # Slides (optional).
@@ -29,31 +30,15 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: "veranoinv22"
 ---
-Start date: 5 August 2021
-End date: 17 December 2021
-Total funding: £10,000
+Start date: 22 June 2022
+End date: 4 October 2022
 
+Supervisor: 
 - Ruben Martinez Cardenas, Senior Lecturer in Economics at De Montfort University
-- Edward Cartwright, Professor of Economics at De Montfort University
-- Swati Virmani, Senior Lecturer in Economics at De Montfort University
-- Bertha Ochieng, Professor of Integrated Health and Social Care at De Montfort University
+Estudiantes: 
+- Nancy Santiago Santos
+- Xóchitl Rosales Terán
 
-We measure the impact of MedicSpot technology in GP consultations. In order to do so we considered: (i) patients’ self-reported experience and satisfaction with the MedicSpot consulting service, (ii) a comparison of patient outcomes between the treatment group (using MedicSpot) and a control group (with face-to-face consultations), (iii) the resource implications of using MedicSpot compared to face-to-face consultations. Additionally, we evaluate the results of asynchronous ear consultations using the same technology.
-
-Our key findings can be summarized as follows
-
-1. We observe very high levels of patient satisfaction with use of the MedicSpot consultation. For instance, 81% of respondents consider it easy to use, 36% rated the MedicSpot consultation better than a conventional consultation, and 81% would recommend MedicSpot to someone else. 
-
-2. While we observe high levels of satisfaction with MedicSpot consultation there are around 10-20% of patients who express dissatisfaction. MedicSpot is not, therefore, ideal for everyone. Patients reporting dissatisfaction were significantly more likely to identify as white ethnicity. 
-
-3. We find no evidence that patients with a MedicSpot consultation are any more or less likely to be given a prescription. We do find, however, for MedicSpot consultations we found patients are more likely to be referred to other NHS services. This is an issue that requires further investigation so that we better understand the reasons and consequences of this difference. 
-
-4. In 5% of consultations held via MedicSpot the patient was seen face-to-face by a GP or nurse or advised a face-to-face appointment was necessary. We also see a significantly higher proportion of follow-up appointments in the treatment group. This suggests it is important to consider how to best allocate patients to a MedicSpot consultation.
-
-5. A synchronous MedicSpot consultation is £5 more expensive than a corresponding in person consultation. This means MedicSpot it is likely to be of limited benefit in settings where the Practice can function effectively with in-person appointments (e.g. large urban, practice with an adequate supply of local based GPs). Given, however, the high levels of satisfaction with the technology, MedicSpot can potentially ameliorate issues related to misallocation of GPs (e.g. remote areas or areas with a shortage of GPs), as it offers the possibility to match GP with patient across different locations.
-
-6. An asynchronous ear consultation offers savings of at least £5 relative to a conventional consultation. We find consistent levels of high satisfaction with the asynchronous and synchronous consultations. This suggests there are potential gains from using asynchronous consultation where appropriate.
-
-
+Durante dos meses, Nancy y Xóchitl participaron en Verano Internacional de la Ciencia 2022 COPOCYT-MD4SG. El programa está dirigido a exbecarias del Programa de Incorporación de Mujeres Indígenas a Posgrados para el Fortalecimiento Regional en San Luis Potosí. Sus proyectos involucraron investigaciones con impacto social en pueblos originarios en el estado de San Luis Potosí. Durante el programa Nancy y Xóchitl realizarón una estancia de investigación virtual conmigo, y presentarón sus resultados preliminares en la exposición de pósters científicos en la Conferencia sobre Equidad y Acceso en Algoritmos, Mecanismos y Optimización (EAAMO ‘22) en Washington DC, Estados Unidos.
