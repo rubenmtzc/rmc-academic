@@ -29,6 +29,8 @@ content:
     tag: "*"
   - name: Measuring The Impact Of Medicspot GP Consultations
     tag: "*"
+  - name: Verano de Investigación MD4SG-Copocyt
+    tag: "*" 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
