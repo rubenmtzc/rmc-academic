@@ -21,14 +21,13 @@ slides:
 
 ## Verano de Investigación MD4SG-Copocyt
 
-Durante dos meses exbecarias del Programa de Incorporación de Mujeres Indígenas a Posgrados para el Fortalecimiento Regional en San Luis Potosí.
-Realizaron una estancia de investigación virtual con investigadoras e investigadores de diferentes paises.
+Durante dos meses becarias y exbecarias del Programa de Incorporación de Mujeres Indígenas a Posgrados de San Luis Potosí realizaron una estancia de investigación virtual con investigadoras e investigadores de diferentes paises.
 
 ---
 
 ## Proyectos
 
-Las estudiantes realizarón investigaciones con impacto social en pueblos originarios en el estado de San Luis Potosí. 
+Las estudiantes realizarón investigaciones con impacto social en pueblos originarios en el estado de San Luis Potosí. Algúnos de los temas fueron
 
 - Salud
 - Vivienda adecuada
@@ -39,9 +38,18 @@ Las estudiantes realizarón investigaciones con impacto social en pueblos origin
 
 ## Nancy y Xóchitl
 
-Durante el programa Nancy y Xóchitl realizarón una estancia de investigación virtual conmigo
+Durante el programa Nancy y Xóchitl realizarón una estancia de investigación virtual conmigo. Sus temas fuerón
 
-Presentarón sus resultados preliminares en la Conferencia sobre Equidad y Acceso en Algoritmos, Mecanismos y Optimización (EAAMO ‘22) en Washington DC, Estados Unidos
+- Vivienda Adecuada en los Pueblos Indígenas Téenek
+- El Derecho Humano a la vivienda digna
+
+Ellas presentarón sus resultados preliminares en la [Conferencia sobre Equidad y Acceso en Algoritmos, Mecanismos y Optimización (EAAMO ‘22)](https://eaamo.org/#home) en Washington DC, Estados Unidos.
+
+---
+
+## Nancy y Xóchitl
+
+Nancy: 
 
 ---
 
