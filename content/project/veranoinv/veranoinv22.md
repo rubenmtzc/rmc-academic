@@ -31,6 +31,8 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: "veranoinv22-slides"
+slides = "veranoinv22-slides" references `content/slides/example/veranoinv22-slides.md
+
 ---
 - Start date: 22 June 2022
 - End date: 4 October 2022
