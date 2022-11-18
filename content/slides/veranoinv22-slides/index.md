@@ -48,31 +48,11 @@ Ellas presentarón sus resultados preliminares en la [Conferencia sobre Equidad 
 ---
 
 ## Nancy y Xóchitl
-![Nancy y Xóchitl](/nyx.jpeg)
+![Nancy y Xóchitl](/nyx.jpeg){{ $image := $image.Resize "x400" }}
 
 Nancy: 
 
 Xóchitl: "¡Es la mejor experiencia que he tenido en mi vida! Conocí y aprendí muchísimo. Vi a grandes Investigadores de todo el mundo y el trato que nos dieron fue increíble"
-
----
-
-## Nancy y Xóchitl
-
-{{{imgzoom}}}
-#+caption: /"Xóchitl: "¡Es la mejor experiencia que he tenido en mi vida! Conocí y aprendí muchísimo. Vi a grandes Investigadores de todo el mundo y el trato que nos dieron fue increíble""/
-[[/nyx.jpeg]]
-
----
-
-## Nancy y Xóchitl
-
-{{{imgzoom}}}
-#+caption: /"Xóchitl: "¡Es la mejor experiencia que he tenido en mi vida! Conocí y aprendí muchísimo. Vi a grandes Investigadores de todo el mundo y el trato que nos dieron fue increíble""/
-#+attr_html: :class fancy
-#+attr_html: :target _blank
-#+attr_html: :alt Caption not used as alt text
-#+attr_html: :width 50% :height 50%
-[[/nyx.jpeg]]
 
 ---
 
