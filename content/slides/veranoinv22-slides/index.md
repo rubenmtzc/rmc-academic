@@ -56,13 +56,24 @@ Xóchitl: "¡Es la mejor experiencia que he tenido en mi vida! Conocí y aprend�
 
 ---
 
+## Nancy y Xóchitl
+
+Nancy: 
+
+Xóchitl: "¡Es la mejor experiencia que he tenido en mi vida! Conocí y aprendí muchísimo. Vi a grandes Investigadores de todo el mundo y el trato que nos dieron fue increíble"
+
+---
+
 ## Yo
 
-En esta oportunidad de aprender sobre
+Tuve la oportunidad de aprender sobre
 
 | Las comunidades de Nany y Xóchitl |
+
 | Algunos problemas que enfrentan sus comunidades |
+
 | La riqueza cultural y natural de sus comunidades |
+
 **| Y mucho más, fue muy enriquecedor |**
 
 ---
