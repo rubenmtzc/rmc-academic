@@ -48,7 +48,7 @@ Ellas presentarón sus resultados preliminares en la [Conferencia sobre Equidad 
 ---
 
 ## Nancy y Xóchitl
-/images/nyx.jpeg
+{{< img src="nyx.jpeg" alt="NyX" >}}
 
 Nancy: 
 
