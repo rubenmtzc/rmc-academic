@@ -5,8 +5,8 @@ authors: [Ruben Martínez Cárdenas]
 tags: [MD4SG, Copocyt, Estancia de Investigación]
 categories: []
 date: "2022-05-05T00:00:00Z"
-aling: r
 slides:
+  align: r
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: white
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
@@ -22,7 +22,7 @@ slides:
 
 ## Verano de Investigación 
 # MD4SG-Copocyt
-align: l
+
 Durante dos meses becarias y exbecarias del Programa de Incorporación de Mujeres Indígenas a Posgrados de San Luis Potosí realizaron una estancia de investigación virtual.
 
 ---
