@@ -30,7 +30,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: veranoinv22
 ---
 - Start date: 22 June 2022
 - End date: 4 October 2022
