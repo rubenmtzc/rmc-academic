@@ -6,8 +6,7 @@ tags: [MD4SG, Copocyt, Estancia de Investigación]
 categories: []
 date: "2022-05-05T00:00:00Z"
 slides:
-  align: r
-  # Choose a theme from https://github.com/hakimel/reveal.js#theming
+   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: white
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
@@ -21,7 +20,7 @@ slides:
 ---
 
 ## Verano de Investigación 
-# MD4SG-Copocyt
+## MD4SG-Copocyt
 
 Durante dos meses becarias y exbecarias del Programa de Incorporación de Mujeres Indígenas a Posgrados de San Luis Potosí realizaron una estancia de investigación virtual.
 
@@ -29,7 +28,13 @@ Durante dos meses becarias y exbecarias del Programa de Incorporación de Mujere
 
 ## Proyectos
 
-Las estudiantes realizarón investigaciones con impacto social en pueblos originarios en el estado de San Luis Potosí. Algúnos de los temas fueron
+Las estudiantes realizarón investigaciones con impacto social en pueblos originarios en el estado de San Luis Potosí.
+
+---
+
+## Temas de Investigación
+
+Algúnos de los temas fueron
 
 - Salud
 - Vivienda adecuada
@@ -38,23 +43,25 @@ Las estudiantes realizarón investigaciones con impacto social en pueblos origin
 
 ---
 
-## Nancy y Xóchitl
+## Resultados
 
-Durante el programa Nancy y Xóchitl realizarón una estancia de investigación virtual conmigo. Sus temas fuerón
+* Durante la estancia de investigación virtual las estudiantes fueron supervisadas por académicos de distintas partes
 
-- Vivienda Adecuada en los Pueblos Indígenas Téenek
-- El Derecho Humano a la vivienda digna
-
-Ellas presentarón sus resultados preliminares en la [Conferencia sobre Equidad y Acceso en Algoritmos, Mecanismos y Optimización (EAAMO ‘22)](https://eaamo.org/#home) en Washington DC, Estados Unidos.
+* Ellas presentarón sus resultados preliminares en la [Conferencia sobre Equidad y Acceso en Algoritmos, Mecanismos y Optimización (EAAMO ‘22)](https://eaamo.org/#home) en Washington DC, Estados Unidos.
 
 ---
 
 ## Nancy y Xóchitl
 ![Nancy y Xóchitl](/nyx.jpeg){{ $image := $image.Resize "x50" }}
 
-Nancy: 
+---
 
-Xóchitl: "¡Es la mejor experiencia que he tenido en mi vida! Conocí y aprendí muchísimo. Vi a grandes Investigadores de todo el mundo y el trato que nos dieron fue increíble"
+## Nancy y Xóchitl
+
+Nancy y Xóchitl realizarón su estancia de investigación conmigo
+
+- El tema de Nancy fue "Vivienda Adecuada en los Pueblos Indígenas Téenek"
+- El teman de Xóchitl fue "El Derecho Humano a la vivienda digna"
 
 ---
 
