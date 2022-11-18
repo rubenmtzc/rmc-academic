@@ -48,8 +48,11 @@ Ellas presentarón sus resultados preliminares en la [Conferencia sobre Equidad 
 ---
 
 ## Nancy y Xóchitl
+![demo](/nyx.jpeg)
 
 Nancy: 
+
+Xóchitl: "¡Es la mejor experiencia que he tenido en mi vida! Conocí y aprendí muchísimo. Vi a grandes Investigadores de todo el mundo y el trato que nos dieron fue increíble"
 
 ---
 
