@@ -52,13 +52,13 @@ Algúnos de los temas fueron
 ---
 
 ## Nancy y Xóchitl
-![Nancy y Xóchitl](/nyx.jpeg){{ $image := $image.Resize "x50" }}
+![Nancy y Xóchitl](/nyx.jpeg)
 
 ---
 
 ## Nancy y Xóchitl
 
-Nancy y Xóchitl realizarón su estancia de investigación conmigo
+Yo fui mentor de Nancy y Xóchitl
 
 - El tema de Nancy fue "Vivienda Adecuada en los Pueblos Indígenas Téenek"
 - El teman de Xóchitl fue "El Derecho Humano a la vivienda digna"
@@ -67,7 +67,7 @@ Nancy y Xóchitl realizarón su estancia de investigación conmigo
 
 ## Nancy y Xóchitl
 
-Nancy: 
+Nancy: "Al terminar mi posgrado, mi meta es regresar a mi comunidad y enfocarme en la adecuación de la vivienda y ver la autoconstrucción"
 
 Xóchitl: "¡Es la mejor experiencia que he tenido en mi vida! Conocí y aprendí muchísimo. Vi a grandes Investigadores de todo el mundo y el trato que nos dieron fue increíble"
 
