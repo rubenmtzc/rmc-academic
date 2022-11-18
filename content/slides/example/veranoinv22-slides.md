@@ -49,10 +49,10 @@ Presentarón sus resultados preliminares en la Conferencia sobre Equidad y Acces
 
 En esta oportunidad de aprender sobre
 
-{{% fragment %}}  | Las comunidades de Nany y Xóchitl |  {{% /fragment %}}
-{{% fragment %}}  | Algunos problemas que enfrentan sus comunidades |  {{% /fragment %}}
-{{% fragment %}}  | La riqueza cultural y natural de sus comunidades |  {{% /fragment %}}
-{{% fragment %}}  **| Y mucho más, fue muy enriquecedor |**  {{% /fragment %}}
+| Las comunidades de Nany y Xóchitl |
+| Algunos problemas que enfrentan sus comunidades |
+| La riqueza cultural y natural de sus comunidades |
+**| Y mucho más, fue muy enriquecedor |**
 
 ---
 
@@ -62,10 +62,10 @@ La expereincia fue tan buena para las estudiantes y para nosotros tambien
 
 **| Queremos repetir y hacer crecer el proyecto |** 
 
-{{% fragment %}}  | En 2023 queremos seguir colaborando con Copocyt y REDNACECYT |  {{% /fragment %}}
-{{% fragment %}}  | Pero ahora extendiendo el proyecto a todo México |  {{% /fragment %}}
-{{% fragment %}}  | Necsitamos más investigadores para hacerlo realidad |  {{% /fragment %}}
-{{% fragment %}}  **| Y queremos invitarte a participar |**  {{% /fragment %}}
+| En 2023 queremos seguir colaborando con Copocyt y REDNACECYT |
+| Pero ahora extendiendo el proyecto a todo México |
+| Necsitamos más investigadores para hacerlo realidad |
+**| Y queremos invitarte a participar |**
 
 ---
 # ¿Te interesa?
