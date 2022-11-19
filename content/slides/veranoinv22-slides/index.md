@@ -45,9 +45,7 @@ Algúnos de los temas fueron
 
 ## Resultados
 
-* Durante la estancia de investigación virtual las estudiantes fueron supervisadas por académicos de distintas partes
-
-* Ellas presentarón sus resultados preliminares en la [Conferencia sobre Equidad y Acceso en Algoritmos, Mecanismos y Optimización (EAAMO ‘22)](https://eaamo.org/#home) en Washington DC, Estados Unidos.
+Ellas presentarón sus resultados preliminares en la [Conferencia sobre Equidad y Acceso en Algoritmos, Mecanismos y Optimización (EAAMO ‘22)](https://eaamo.org/#home) en Washington DC, Estados Unidos.
 
 ---
 
@@ -77,7 +75,7 @@ Xóchitl: "¡Es la mejor experiencia que he tenido en mi vida! Conocí y aprend�
 
 Tuve la oportunidad de aprender sobre
 
-| Las comunidades de Nany y Xóchitl |
+| Las comunidades originarias se San Luis Potosí |
 
 | Algunos problemas que enfrentan sus comunidades |
 
@@ -105,6 +103,6 @@ Estos son los pasos
 - Completa nuestra [Encuesta](https://rubenmtzc.netlify.app/#contact)
 - Espera a que te contactemos 
 
-¿Más información? [Contact](rubenmtzc@gmail.com)
+¿Más información? [Contactanos](rubenmtzc@gmail.com)
 
 
