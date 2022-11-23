@@ -32,7 +32,7 @@ publication_types: ["2"]
 publication: In *Well-being and Social Policy Journal*
 publication_short: In *WSPJ*
 
-abstract: We empirically investigate correlates with social capital. For this, we use two common approximate measures of social capital, namely social organisation memberships, and trust.
+abstract: We empirically investigate correlates with social capital. For this, we use two common approximate measures of social capital, namely social organisation memberships, and trust. Using data for urban areas in Mexico for the year 2006, we find that social capital measured as trust and membership increases with age, and with the perception of higher levels of social capital in the environment; it also tends to be higher in smaller communities, and is different across regions of the country. On the other hand, social capital measured as trust decreases with segregation, while social capital measured as membership increases with education and income, but decreases with the lack of social security.
 
 # Summary. An optional shortened abstract.
 summary: We empirically explore the determinants of trust in Mexico; in particular we isolate the relation among two measurements of social capital, one for the individual and another for their environment.
