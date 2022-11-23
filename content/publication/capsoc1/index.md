@@ -1,9 +1,9 @@
 ---
-title: "Confianza y Capital Social: Evidencia para México. Revista Economía Sociedad y Territorio.
-Vol XV, no. 48, May 2015. With Edgardo Ayala Gaytan and Ernesto Aguayo Tellez"
+title: "A Quantitative Analysis of Social Capital in Mexico. Well-being and Social Policy Journal.
+Vol 9, no. 1, May 2015. With Edgardo Ayala Gaytan and Ernesto Aguayo Tellez"
 
 # Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
@@ -19,8 +19,8 @@ date: "2013-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2015-05-01"
-#publishDate: "2015-05-01T00:00:00Z"
+publishDate: "2014-06-01"
+#publishDate: "2014-05-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,15 +29,15 @@ publishDate: "2015-05-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Revista Economía Sociedad y Territorio*
-publication_short: In *ESyT*
+publication: In *Well-being and Social Policy Journal*
+publication_short: In *WSPJ*
 
-abstract: From an economic perspective, trust among members of a society is associated with the efficient functioning of markets, contract reinforcement and in general with the capacity to generate development and welfare. In this article we empirically explore the determinants of trust in Mexico; in particular we isolate the relation among two measurements of social capital, one for the individual and another for their environment. Our results show that trust increases with these measurements of social capital, and in the absence of segregation, it is higher in smaller communities, at older ages and for inhabitants of the center-occident, among others.
+abstract: Social capital has been related to efiiciency in markets (Arrow, 1972), contract reinforcement (Durlauf and Fafchamps, 2004) and in general to development and welfare (Keefer and Knack 1997; Putnam 2000; Knack and Zak 2003). In this paper we empirically investigate the determinants of social capital, focusing on three common approximate measures of it: two related to trust, and one related to social organization memberships. Using data for urban areas in Mexico for the year 2006, we find that social capital measured as trust and membership increases with age, and with the perception of higher levels of social capital in the environment; it also tends to be higher in smaller communities, and is different across regions of the country. On the other hand, social capital measured as trust decreases with segregation, while social capital measured as membership increases with education and income, but decreases with the lack of social security
 
 # Summary. An optional shortened abstract.
-summary: We empirically explore the determinants of trust in Mexico; in particular we isolate the relation among two measurements of social capital, one for the individual and another for their environment.
+summary: We investigate correlates of social capital for the case of Mexico; focusing on trust and social networks.
 
-tags: [Social capital, trust, Mexico]
+tags: [Social capital, social netowrks, trust, Mexico]
 
 # Display this page in the Featured widget?
 featured: true
@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1405-84212015000100003&lng=es&nrm=iso'
+url_pdf: 'http://biblioteca.ciess.org/adiss/r456/a_quantitative_analysis_of_social_capital_in_mexico'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -57,7 +57,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: ""
   focal_point: ""
@@ -69,7 +69,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- RMC-EA_EA 15 Confianza y capital social evidencia para Mexico
+- RMC-EA_EA 14 A Quantitative Analysis of Social Capital in Mexico
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -78,4 +78,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
