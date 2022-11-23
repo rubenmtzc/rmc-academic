@@ -1,6 +1,6 @@
 ---
-title: "Confianza y Capital Social: Evidencia para México. Revista Economía Sociedad y Territorio.
-Vol XV, no. 48, May 2015. With Edgardo Ayala Gaytan and Ernesto Aguayo Tellez"
+title: "A Quantitative Analysis of Social Capital in Mexico. Well-being and Social Policy Journal.
+Vol 9, no. 1, May 2015. With Edgardo Ayala Gaytan and Ernesto Aguayo Tellez"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -29,8 +29,8 @@ publishDate: "2015-05-01"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Revista Economía Sociedad y Territorio*
-publication_short: In *ESyT*
+publication: In *Well-being and Social Policy Journal*
+publication_short: In *WSPJ*
 
 abstract: From an economic perspective, trust among members of a society is associated with the efficient functioning of markets, contract reinforcement and in general with the capacity to generate development and welfare. In this article we empirically explore the determinants of trust in Mexico; in particular we isolate the relation among two measurements of social capital, one for the individual and another for their environment. Our results show that trust increases with these measurements of social capital, and in the absence of segregation, it is higher in smaller communities, at older ages and for inhabitants of the center-occident, among others.
 
