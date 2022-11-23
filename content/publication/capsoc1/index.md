@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'http://biblioteca.ciess.org/adiss/r456/a_quantitative_analysis_of_social_capital_in_mexico'
+url_pdf: 'https://drive.google.com/file/d/1hEYBTkWIGbBZxDGJOag0SPICGDHSsJnp/view?usp=sharing'
 url_code: ''
 url_dataset: ''
 url_poster: ''
