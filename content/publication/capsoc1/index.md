@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1405-84212015000100003&lng=es&nrm=iso'
+url_pdf: 'http://biblioteca.ciess.org/adiss/r456/a_quantitative_analysis_of_social_capital_in_mexico'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -69,7 +69,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- RMC-EA_EA 15 Confianza y capital social evidencia para Mexico
+- RMC-EA_EA 14 A Quantitative Analysis of Social Capital in Mexico
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
