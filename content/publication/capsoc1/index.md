@@ -32,7 +32,7 @@ publication_types: ["2"]
 publication: In *Well-being and Social Policy Journal*
 publication_short: In *WSPJ*
 
-abstract: We empirically investigate the determinants of social capital, focusing on three common approximate measures of it: two related to trust, and one related to social organization memberships.
+abstract: We empirically investigate correlates with social capital. For this, we use two common approximate measures of social capital, namely social organisation memberships, and trust.
 
 # Summary. An optional shortened abstract.
 summary: We empirically explore the determinants of trust in Mexico; in particular we isolate the relation among two measurements of social capital, one for the individual and another for their environment.
