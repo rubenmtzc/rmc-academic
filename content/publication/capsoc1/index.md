@@ -32,12 +32,12 @@ publication_types: ["2"]
 publication: In *Well-being and Social Policy Journal*
 publication_short: In *WSPJ*
 
-abstract: From an economic perspective, trust among members of a society is associated with the efficient functioning of markets, contract reinforcement and in general with the capacity to generate development and welfare. In this article we empirically explore the determinants of trust in Mexico; in particular we isolate the relation among two measurements of social capital, one for the individual and another for their environment. Our results show that trust increases with these measurements of social capital, and in the absence of segregation, it is higher in smaller communities, at older ages and for inhabitants of the center-occident, among others.
+abstract: Social capital has been related to efficiency in markets (Arrow, 1972), contract reinforcement (Durlauf and Fafchamps, 2004) and in general to development and welfare (Keefer and Knack 1997; Putnam 2000; Knack and Zak 2003). In this paper we empirically investigate the determinants of social capital, focusing on three common approximate measures of it: two related to trust, and one related to social organization memberships. Using data for urban areas in Mexico for the year 2006, we find that social capital measured as trust and membership increases with age, and with the perception of higher levels of social capital in the environment; it also tends to be higher in smaller communities, and is different across regions of the country. On the other hand, social capital measured as trust decreases with segregation, while social capital measured as membership increases with education and income, but decreases with the lack of social security.
 
 # Summary. An optional shortened abstract.
 summary: We empirically explore the determinants of trust in Mexico; in particular we isolate the relation among two measurements of social capital, one for the individual and another for their environment.
 
-tags: [Social capital, trust, Mexico]
+tags: [Social capital, social networks, trust, Mexico]
 
 # Display this page in the Featured widget?
 featured: true
