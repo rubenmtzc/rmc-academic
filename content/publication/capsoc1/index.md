@@ -32,7 +32,7 @@ publication_types: ["2"]
 publication: In *Well-being and Social Policy Journal*
 publication_short: In *WSPJ*
 
-abstract: Social capital has been related to efficiency in markets (Arrow, 1972), contract reinforcement (Durlauf and Fafchamps, 2004) and in general to development and welfare (Keefer and Knack 1997; Putnam 2000; Knack and Zak 2003). 
+abstract: Social capital has been related to efficiency in markets (Arrow, 1972), contract reinforcement (Durlauf and Fafchamps, 2004) and in general to development and welfare (Keefer and Knack 1997; Putnam 2000; Knack and Zak 2003). In this paper we empirically investigate the determinants of social capital, focusing on three common approximate measures of it: two related to trust, and one related to social organization memberships. Using data for urban areas in Mexico for the year 2006, we find that social capital measured as trust and membership increases with age, and with the perception of higher levels of social capital in the environment; it also tends to be higher in smaller communities, and is different across regions of the country.
 
 # Summary. An optional shortened abstract.
 summary: We empirically explore the determinants of trust in Mexico; in particular we isolate the relation among two measurements of social capital, one for the individual and another for their environment.
