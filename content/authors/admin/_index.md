@@ -24,7 +24,7 @@ interests:
 - Digital economy
 - Economic design
 - Financial intermediation
-- Applications of digital techologies for development
+- Applications of digital technologies for development
 - Inequality, social capital, well-being, and social welfare
 
 # Education to show in About widget
