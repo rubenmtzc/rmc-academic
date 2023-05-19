@@ -32,7 +32,9 @@ url_video: ""
 slides: ""
 ---
 Start date: 10 Jan 2023
+
 End date: Ongoing (30 Jun 2023)
+
 Total funding: £3708.40
 
 - Ruben Martinez Cardenas, Senior Lecturer in Economics at De Montfort University
