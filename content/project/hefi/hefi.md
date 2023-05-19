@@ -1,5 +1,5 @@
 ---
-title Economic Data Interpretation
+title: Economic Data Interpretation
 summary: ""
 tags:
 - Data
