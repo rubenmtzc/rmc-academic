@@ -21,8 +21,8 @@ We are keen to bring into the discussion a wide spectrum of voices from national
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "Thu, 22 Jun 2023 10:00 BST"
+date_end: "Thu, 22 Jun 2023 14:00 BST"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
