@@ -22,7 +22,7 @@ We are keen to bring into the discussion a wide spectrum of voices from national
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2023-06-22T10:00:00Z"
-date_end: "20230-22-01T14:00:00Z"
+date_end: "2023-22-01T14:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
