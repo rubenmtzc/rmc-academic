@@ -1,10 +1,12 @@
 ---
-title: Seminars and talks
+title: Events
 
-event: Seminar
-event_url: https://rubenmtzc.netlify.app/project/example/
+event: Empowering communities: How to Design a Smart City that Works for All
+event_url: https://www.eventbrite.co.uk/e/empowering-communities-how-to-design-a-smart-city-that-works-for-all-tickets-631553231717
 
-location: Online
+location: De Montfort University
+
+The event will be held in person in Leicester at the Hugh Aston Building Room HU1.51, De Montfort University. All are welcome to attend but we do ask you register in advance.
 address:
   street: The Gateway
   city: Leicester
@@ -12,8 +14,12 @@ address:
   postcode: 'LE1 9BH'
   country: United Kingdom
 
-summary: We meet regularly during term time. Contatc me for more details.
-abstract: "In our meeting we usually have presentations followed by discussions related to problems or research related to the topic covered"
+summary: There is wide support for the notion of an inclusive smart city that works for all. This workshop will explore how to make that a reality.
+abstract: "AI and smart technology is revolutionising the world. But the advantages are not being universally shared. Some are disadvantaged by digital exclusion or lack of digital skills. AI can also be biased. So, how do we design smart cities that are truly inclusive and work to redress social and economic inequalities rather than exacerbate them?
+
+In this workshop we will address the challenge of how to design smart cities that work for all. We will first reflect on a recent Alan Turing Institute funded project we conducted in Leicester and launch a Community Reporter Smart City toolkit. We will then have some structured group tasks before a concluding panel discussion.
+
+We are keen to bring into the discussion a wide spectrum of voices from national and local government, businesses, charities, academia and community groups."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
