@@ -1,5 +1,5 @@
 ---
-title: Events
+title: Empowering communities, How to Design a Smart City that Works for All
 
 event: Empowering communities, How to Design a Smart City that Works for All
 event_url: https://www.eventbrite.co.uk/e/empowering-communities-how-to-design-a-smart-city-that-works-for-all-tickets-631553231717
