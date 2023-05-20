@@ -25,7 +25,9 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: A Smart City that works for all.
+  - name: Economic Data Interpretation
+    tag: "*" 
+  - name: A Smart City that Works for All
     tag: "*"
   - name: Remote GP Consultations
     tag: "*"
