@@ -1,6 +1,6 @@
 ---
 title: "A Quantitative Analysis of Social Capital in Mexico. Well-being and Social Policy Journal.
-Vol 9, no. 1, May 2015. With Edgardo Ayala Gaytan and Ernesto Aguayo Tellez"
+Vol 9, no. 1, June 2014. With Edgardo Ayala Gaytan and Ernesto Aguayo Tellez"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -15,7 +15,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2014-06-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
