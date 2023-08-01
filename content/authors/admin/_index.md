@@ -6,14 +6,14 @@ title: Rubén Martínez Cárdenas
 superuser: true
 
 # Role/position/tagline
-role: Senior Lecturer in Economics
+role: Lecturer in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Leicester Castle Business School  
-  url: https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx  
-- name: De Montfort University
-  url: https://www.dmu.ac.uk/about-dmu/academic-staff/business-and-law/ruben-martinez-cardenas/ruben-martinez-cardenas.aspx
+- name: Department of Economics and Related Studies  
+  url: https://www.york.ac.uk/economics/  
+- name: University of York
+  url: https://www.york.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include the digital economy, economic design, financial intermediation, and a little bit of macroeconomics.
@@ -75,6 +75,6 @@ email: ""
 highlight_name: false
 ---
 
-Hi I'm a senior lecturer in economics at De Montfort University. My research interests include the digital economy, economic design, financial intermediation, and a little bit of macroeconomics. You can find me on <i class="fab fa-mastodon"></i> <a rel="me" href="https://econtwitter.net/@Rubenmtzc">Mastodon</a>.
+Hi I'm a lecturer in economics at University of York. My research interests include the digital economy, economic design, financial intermediation, and a little bit of macroeconomics. You can find me on <i class="fab fa-mastodon"></i> <a rel="me" href="https://econtwitter.net/@Rubenmtzc">Mastodon</a>.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/13gliiSmAtgJtrl8kaqnmWrPSo0BBV1TS/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
