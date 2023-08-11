@@ -21,20 +21,20 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: first part of the webpage address @gmail.com
-phone: +44 (0) 116 257 7403
-location: De Montfort University
+phone: +44 (0)1904 32 8170
+location: Department of Economics and Related Studies
 address:
-  street: The Gateway
-  city: Leicester
-  region: Leicestershire
-  postcode: 'LE1 9BH'
+  street: University of York
+  city: York
+  region: North Yorkshire
+  postcode: 'YO10 5DD'
   country: United Kingdom
 #coordinates:
-  #latitude: '37.4275'
-  #longitude: '-122.1697'
-directions: Enter Hugh Aston Building, go up to floor 4, I'm in Office HU 4.80.
-office_hours: Office Hours by appointment only. Mondays 2:00-3:00 PM, Tuesdays 10.00-11.00 AM (British Time)
-appointment_url: 'https://calendly.com/rmc-dmu/ruben-martinez-cardenas-office-hours?month=2021-09'
+  #latitude: '53.94874248325347'
+  #longitude: '-1.0489131661382707'
+directions: Enter the Deaprtment of Economics and Related Studies, take the left aisle and pass the first door, I'm in Office A/EC/009.
+office_hours: Office Hours by appointment only.
+appointment_url: 'https://calendar.app.google/R9EkGyyYKxgCP5q27'
 contact_links:
   - icon: mastodon
     icon_pack: fab
